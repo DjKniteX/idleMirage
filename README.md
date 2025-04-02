@@ -19,6 +19,6 @@ Follow my blog for news/info regarding idleMirage and the games I'll be making @
 
 
 ## How to Install
-** Prerequisites: node.js, npm
+**Prerequisites: node.js, npm** 
 
 Coming Soon
