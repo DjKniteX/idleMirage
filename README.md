@@ -9,6 +9,8 @@ Inspired by the classic web multiplayer games of the 90s and early 00s, idleMira
 
 Stay tuned for upcoming updates/features as well as my own personal game using idleMirage in the near future.
 
+Follow my blog for news/info regarding idleMirage and the games I'll be making @ https://blog.nikkix.me
+
 ## Features
  - Traditional turn based Combat
  - Quests
