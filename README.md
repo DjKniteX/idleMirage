@@ -1,6 +1,8 @@
 # idleMirage
 **Core concept built with the help of AI, v0.dev**
 
+![main menu](images/screenshot1.png)
+
 idleMirage is an idle clicker framework following the legacy of Mirage Source for aspiring developers or hobbyists to develop their own single player web game.
 
 idleMirage will include your basic RPG template and features including quests, shops, and leveling up. 
