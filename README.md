@@ -2,7 +2,9 @@
 **Core concept built with the help of AI, v0.dev**
 
 ![main menu](images/screenshot1.png)
+![dashboard](images/screenshot2.png)
 **Beta source is now avaiable, will slowly make updates/refactoring and work on documentation** 
+**Example game to see it in action: https://simonsquest.vercel.app/**
 
 idleMirage is an idle clicker framework following the legacy of Mirage Source for aspiring developers or hobbyists to develop their own single player web game.
 
