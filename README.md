@@ -1,7 +1,7 @@
 # idleMirage
 **Core concept built with the help of AI, v0.dev**
-**Beta source is now avaiable, will slowly make updates/refactoring and work on documentation** 
-**Example game to see it in action: https://simonsquest.vercel.app/**
+## Beta source is now avaiable, will slowly make updates/refactoring and work on documentation
+## Example game to see it in action: https://simonsquest.vercel.app/
 
 ![main menu](images/screenshot1.png)
 ![dashboard](images/screenshot2.png)
