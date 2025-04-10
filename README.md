@@ -2,6 +2,7 @@
 **Core concept built with the help of AI, v0.dev**
 
 ![main menu](images/screenshot1.png)
+**Beta source is now avaiable, will slowly make updates/refactoring and work on documentation** 
 
 idleMirage is an idle clicker framework following the legacy of Mirage Source for aspiring developers or hobbyists to develop their own single player web game.
 
@@ -22,5 +23,9 @@ Follow my blog for news/info regarding idleMirage and the games I'll be making @
 
 ## How to Install
 **Prerequisites: node.js, npm** 
+
+- npm i (Or anyway for you to install dependencies)
+- npm run dev
+- navigate to localhost:3000
 
 Coming Soon
